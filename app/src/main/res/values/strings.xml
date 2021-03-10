@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">PAS_Mobile</string>
     <string name="title_home">MAIN</string>
-    <string name="title_dashboard">NO DATA</string>
+    <string name="title_dashboard">GRAPH</string>
     <string name="title_notifications">NO DATA</string>
 </resources>

@@ -9,6 +9,7 @@ import java.util.Random;
 
 public class Main_2 {
     public static void main(String[] args) {
+        first_part();
         second_part();
     }
 
