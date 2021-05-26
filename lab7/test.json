@@ -1,0 +1,62 @@
+ check.push('')
+                     return (
+                        <SafeAreaView>
+                            <ScrollView style={{ backgroundColor: styleConfig.bg }}>
+                                <View style={orientation().infoScreen}>
+                                    <View style={orientation().infoImageSection}>
+                                        <Image
+                                            style={orientation().infoImage}
+                                            source={ data.Poster === 'N/A' ? require('../assets/posters/no-poster.jpg') : { uri: data.Poster } }
+                                        />
+                                    </View>
+                                    <View style={orientation().infoScreenTextView}>
+                                        <Text style={orientation().titleText}>Title</Text>
+                                        <Text style={orientation().subText}>{data.Title}</Text>
+
+                                        <Text style={orientation().titleText}>Runtime</Text>
+                                        <Text style={orientation().subText}>{data.Runtime}</Text>
+
+                                        <Text style={orientation().titleText}>Genre</Text>
+                                        <Text style={orientation().subText}>{data.Genre}</Text>
+
+                                        <Text style={orientation().titleText}>Awards</Text>
+                                        <Text style={orientation().subText}>{data.Awards}</Text>
+
+                                        <Text style={orientation().titleText}>Rating</Text>
+                                        <Text style={orientation().subText}>{data.imdbRating}</Text>
+
+                                        <Text style={orientation().titleText}>Actors</Text>
+                                        <Text style={orientation().subText}>{data.Actors}</Text>
+
+                                        <Text style={orientation().titleText}>Language</Text>
+                                        <Text style={orientation().subText}>{data.Language}</Text>
+
+                                        <Text style={orientation().titleText}>Plot</Text>
+                                        <Text style={orientation().subText}>{data.Plot}</Text>
+
+                                        <Text style={orientation().titleText}>Director</Text>
+                                        <Text style={orientation().subText}>{data.Director}</Text>
+
+                                        <Text style={orientation().titleText}>Country</Text>
+                                        <Text style={orientation().subText}>{data.Country}</Text>
+
+                                        <Text style={orientation().titleText}>Production</Text>
+                                        <Text style={orientation().subText}>{data.Production}</Text>
+
+                                        <Text style={orientation().titleText}>Released</Text>
+                                        <Text style={orientation().subText}>{data.Released}</Text>                   
+
+                                        <Text style={orientation().titleText}>Year</Text>
+                                        <Text style={orientation().subText}>{data.Year}{'\n'}</Text>
+
+                                    </View>
+                                </View>
+                    )
+
+                    {
+                    <View style={styles.container}>
+                        <Text style={styles.textStyle}>
+                            Бєлов Микита Сегрійович{"\n"}Г р у п а  І В - 8 1{"\n"}ЗК ІВ-8102
+                        </Text>
+                    </View>
+                }

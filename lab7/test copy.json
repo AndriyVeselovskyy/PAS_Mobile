@@ -1,0 +1,94 @@
+Array [
+  Object {
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjc4NzEwNTAtZjg3OS00NmYwLTg3YjQtOWQ3ZGRjZmI4MTQ4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",   
+    "Title": "Har Dil Jo Pyar Karega...",
+    "Type": "movie",
+    "Year": "2000",
+    "imdbID": "tt0250415",
+  },
+  Object {
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmRlZDRhZWMtZmFlMC00ODllLTk2ZDEtZjQ5ZGI3N2E0MmFjXkEyXkFqcGdeQXVyNTQ2OTY5NDM@._V1_SX300.jpg",   
+    "Title": "Har Kisse Ke Hisse: Kaamyaab",
+    "Type": "movie",
+    "Year": "2018",
+    "imdbID": "tt7881550",
+  },
+  Object {
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3Njc4MzYyN15BMl5BanBnXkFtZTcwNzc0Mzc0Nw@@._V1_SX300.jpg",
+    "Title": "Varg Veum - De døde har det godt",
+    "Type": "movie",
+    "Year": "2012",
+    "imdbID": "tt2182237",
+  },
+  Object {
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTNkZDc4ZTEtY2RjMC00MDJkLWEwY2QtMTg4MjZmNTAzNTRmXkEyXkFqcGdeQXVyMzQ5MzkwMDY@._V1_SX300.jpg",   
+    "Title": "Har Har Byomkesh",
+    "Type": "movie",
+    "Year": "2015",
+    "imdbID": "tt5304172",
+  },
+  Object {
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2RmNGE2N2ItMDM1ZC00YTllLWFjNDQtMmI2OGNiZTFlODM1XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",   
+    "Title": "Lippy the Lion and Hardy Har Har",
+    "Type": "series",
+    "Year": "1962–",
+    "imdbID": "tt0284753",
+  },
+  Object {
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjhhNTZjMWItZTkzZS00NDcyLThjOTQtMTk0MmVlNjJjMTllXkEyXkFqcGdeQXVyMTAyMjI3Mg@@._V1_SX300.jpg",   
+    "Title": "Alle utlendinger har lukka gardiner",
+    "Type": "movie",
+    "Year": "2020",
+    "imdbID": "tt11646970",
+  },
+  Object {
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGRjNmFmNjItYzVhYi00NzIzLTk3NzctYjAxYzBlMDM1YzVkL2ltYWdlXkEyXkFqcGdeQXVyNjY5NTQyMTA@._V1_SX300.jpg",
+    "Title": "Har Yug Mein Aayega Ek - Arjun",
+    "Type": "series",
+    "Year": "2012–",
+    "imdbID": "tt2328418",
+  },
+  Object {
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmNmYjQ1MDgtNWNkZS00NTgwLTgzY2UtZjZiMzExNmY1ZjUwXkEyXkFqcGdeQXVyNDM0OTkxMzI@._V1_SX300.jpg",   
+    "Title": "Carsten Bang: Har satan en fætter?",
+    "Type": "movie",
+    "Year": "2007",
+    "imdbID": "tt0991293",
+  },
+  Object {
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWE4MmVmMmItYTQ5My00NjZmLWE4ZjUtOTg0Y2VmMGEwZTZlXkEyXkFqcGdeQXVyMTQzMjU1NjE@._V1_SX300.jpg",   
+    "Title": "Angne & Svullo 'Här och nu!'",
+    "Type": "movie",
+    "Year": "1991",
+    "imdbID": "tt0220975",
+  },
+  Object {
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjYyYmIxODQtODBmMC00ZGUyLTljMjgtYWYyYjE4OTYyYjQzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_SX300.jpg",   
+    "Title": "Här börjar äventyret",
+    "Type": "movie",
+    "Year": "1965",
+    "imdbID": "tt0059294",
+  },
+]
+
+
+
+
+
+
+
+
+Object {
+  "Error": "No API key provided.",
+  "Response": "False",
+}
+
+
+undefined
+
+
+
+
+
+
+response.Search !== undefined
